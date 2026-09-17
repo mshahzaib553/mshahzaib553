@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Shahzaib 👋
 
-<!--
-**mshahzaib553/mshahzaib553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Mathematics Student at BZU** | 🔐 **Cybersecurity & Cryptography Enthusiast**
 
-Here are some ideas to get you started:
+### 🔬 About Me
+- 🔭 Currently learning: **Cybersecurity, Kali Linux & Google Cybersecurity Specialization**
+- 🐍 Tech Stack: **Python, SQL, DBMS (Neon / PostgreSQL), Bash**
+- 🧮 Math Focus: **Applied Mathematics, Number Theory & Graph Theory for Security**
+- 🎯 Goal: **Integrating Mathematical Models into Cybersecurity & Cryptography**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages:** Python, SQL, Bash
+- **Security & Systems:** Kali Linux, Wireshark, Packet Sniffing, Network Security
+- **Database:** PostgreSQL, Neon DB, SQL Management
+- **Concepts:** RSA Encryption, Graph Theory in Networks, Anomaly Detection
+
+📫 **Reach Me Out:**
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-shahzaib-83611b3ba)
